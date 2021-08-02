@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Debayan-creator
-- 👀 I’m interested in WebDevelopment and backend problems like c/c++ , flutter , Django
+- 👀 I’m interested in WebDevelopment and backend problems like c/c++ , Django
 - 🌱 I’m currently learning c , html /css , linux , pyhton
 - 💞️ I’m looking to collaborate on proj based on webdevelopment or backend.
 - 📫 How to reach me roydebayan2002@gmail.com or linked in https://www.linkedin.com/in/debayan-roy-1709a21b6/
