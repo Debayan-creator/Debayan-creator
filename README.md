@@ -4,7 +4,7 @@
 🔬 Project Associate @ IIT Madras | 5G Testbed  
 🧠 Focus: AI/ML, Python, C++, Embedded Systems  
 🛠️ Tools: TensorFlow, Keras, OpenCV, Tkinter, Git  
-📱 Built GUIs, deep learning models, and signal processing apps  
+📱 Built deep learning models, and signal processing apps  
 🌐 Exploring AI in communication systems, automation, and smart infrastructure
 
 📫 Reach me:  
