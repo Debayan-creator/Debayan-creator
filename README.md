@@ -3,8 +3,8 @@
 🎓 B.Tech in CSE | SRMIST '24  
 🔬 Project Associate @ IIT Madras | 5G Testbed  
 🧠 Focus: AI/ML, Python, C++, Embedded Systems  
-🛠️ Tools: TensorFlow, Keras, OpenCV, Tkinter, Git  
-📱 Built deep learning models, and signal processing apps  
+🛠️ Tools: TensorFlow, Keras, Git, Linux
+📱 Built deep learning models, and signal processing 
 🌐 Exploring AI in communication systems, automation, and smart infrastructure
 
 📫 Reach me:  
