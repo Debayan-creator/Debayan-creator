@@ -8,5 +8,5 @@
 🌐 Exploring AI in communication systems, automation, and smart infrastructure
 
 📫 Reach me:  
-📧 roydebayan2002@gmail.com  
+📧 rdebayanroy@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/debayan-roy-1709a21b6/)
