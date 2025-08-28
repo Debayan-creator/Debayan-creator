@@ -5,6 +5,7 @@
 🧠 Focus: AI/ML, Python, C++, Embedded Systems  
 🛠️ Tools: TensorFlow, Keras, Git, Linux
 📱 Built deep learning models, and signal processing
+
 🌐 Exploring AI in communication systems, automation, and smart infrastructure
 
 📫 Reach me:  
