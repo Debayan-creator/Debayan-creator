@@ -7,10 +7,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working as **Project Associate @ IIT Madras**  
-- 🌱 Learning & building in **C++, Python, Machine Learning, and Tkinter GUIs**  
-- ⚡ Passionate about **5G/6G, Deep Learning & Networking**  
-- 🎯 Goal: **Solve problems & create impact through tech**  
+- 🔭 Currently working as **Project Associate @ IIT Madras**
+- 🌱 Learning & building in **C++, Python, Machine Learning, and Tkinter GUIs**
+- ⚡ Passionate about **5G/6G, Deep Learning & Networking**
+- 🎯 Goal: **Solve problems & create impact through tech**
 
 ---
 
@@ -23,9 +23,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debayan-creator&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debayan-creator&layout=compact&theme=radical" height="170"/>
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Debayan-creator&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Debayan-creator&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
@@ -38,4 +37,4 @@
 
 ---
 
-<p align="center">✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨</p>
+<p align="center">✨ “Code is like humor. When you have to explain it, it’s bad.” ✨</p>
