@@ -7,17 +7,15 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working as **Jn LLM Engineer @ GITAA Pvt Ltd.**
-- **Ex-Project Associate at 5Gtestbed, IIT Madras.**
-- 🌱 Learning & building in **C++, Python, Machine Learning, and Tkinter GUIs**
-- ⚡ Passionate about **5G/6G, Deep Learning & Networking**
-- 🎯 Goal: **Solve problems & create impact through tech**
+- Currently working as **Jn LLM Engineer @ GITAA Pvt Ltd.**
+- Prev worked as **Ex-Project Associate at 5Gtestbed, IIT Madras.**
+- Goal: **Solve problems & create impact through tech**
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,linux,git,github,tensorflow,pytorch,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,linux,git,github,tensorflow,pytorch,docker,vscode,LLM" />
 </p>
 
 ---
