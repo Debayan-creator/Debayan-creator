@@ -7,7 +7,8 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working as **Project Associate @ IIT Madras**
+- 🔭 Currently working as **Jn LLM Engineer @ GITAA Pvt Ltd.**
+- **Ex-Project Associate at 5Gtestbed, IIT Madras.**
 - 🌱 Learning & building in **C++, Python, Machine Learning, and Tkinter GUIs**
 - ⚡ Passionate about **5G/6G, Deep Learning & Networking**
 - 🎯 Goal: **Solve problems & create impact through tech**
